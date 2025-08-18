@@ -47,6 +47,48 @@ Contributions are welcome! Please read our contributing guidelines and submit pu
 ### 📄 License
 MIT License - see LICENSE file for details
 
+## 🚀 Advanced Features
+
+### Smart Contract Integration
+- **Multi-chain Support**: Deploy contracts across Base, Ethereum, and other EVM-compatible chains
+- **Gas Optimization**: Advanced techniques for reducing transaction costs
+- **Security Auditing**: Automated security checks and vulnerability scanning
+
+### Developer Tools
+- **Code Generation**: Automated smart contract scaffolding
+- **Testing Framework**: Comprehensive test suites for contract validation
+- **Deployment Scripts**: One-click deployment to multiple networks
+
+### Analytics Dashboard
+- **Real-time Metrics**: Track your builder score and ranking
+- **Performance Insights**: Detailed analysis of contribution patterns
+- **Competitive Analysis**: Compare your progress with other builders
+
+- ## 📊 Builder Score Optimization
+
+### Daily Activities
+1. **Commit Frequency**: Aim for consistent daily commits
+2. **Code Quality**: Focus on meaningful, well-documented changes
+3. **Community Engagement**: Participate in discussions and reviews
+
+### Weekly Goals
+- [ ] Complete 5+ meaningful commits
+- [ ] Review 3+ pull requests
+- [ ] Deploy 1+ smart contract
+- [ ] Update documentation
+
+- [ ] ## 🎯 Contest Strategy - Final Sprint
+
+Current metrics as of August 18, 2025:
+- Builder Score: 6% (Target: 40%+)
+- Time Remaining: 2 hours
+- Focus Area: GitHub contributions
+- Priority: High-impact commits and meaningful contributions
+
+---
+
+*Last updated: August 18, 2025 - Optimizing for final sprint!*
+
 ### 🔗 Links
 - [Base Documentation](https://docs.base.org)
 - [Builder Rewards Contest](https://docs.talentprotocol.com)
